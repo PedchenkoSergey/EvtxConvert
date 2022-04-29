@@ -1,0 +1,4845 @@
+{
+"1":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 397
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:34.850309"
+            },
+            "EventRecordID": {
+                "$": 1
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 16100
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {},
+                        {},
+                        {},
+                        {}
+                    ]
+                }
+            }
+        }
+    }
+},"2":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 349
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:37.408463"
+            },
+            "EventRecordID": {
+                "$": 2
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": {
+                        "$": "Policy Administration ServiceHost\nnet.tcp://localhost:1500/policy\nnet.tcp://localhost:1500/policy\nnet.tcp://localhost:1500/policy\nhttp://Y-DC01.svfu.s-vfu.ru:80/adfs/services/policystoretransfer\nnet.tcp://localhost:1501/adfs/services/policystoretransfer\n\n"
+                    }
+                }
+            }
+        }
+    }
+},"3":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 251
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:38.630533"
+            },
+            "EventRecordID": {
+                "$": 3
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": {
+                        "$": "Active Directory"
+                    }
+                }
+            }
+        }
+    }
+},"4":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 217
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:39.140564"
+            },
+            "EventRecordID": {
+                "$": 4
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "https://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/windowstransport"
+                        },
+                        {
+                            "$": "WindowsTransport"
+                        },
+                        {
+                            "$": "MSIS0006: A Service Principal Name is not registered for the AD FS service account."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"5":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 217
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:40.907391"
+            },
+            "EventRecordID": {
+                "$": 5
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "https://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/windowstransport"
+                        },
+                        {
+                            "$": "WindowsTransport"
+                        },
+                        {
+                            "$": "MSIS0006: A Service Principal Name is not registered for the AD FS service account."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"6":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 217
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:41.741444"
+            },
+            "EventRecordID": {
+                "$": 6
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "https://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/windowstransport"
+                        },
+                        {
+                            "$": "WindowsTransport"
+                        },
+                        {
+                            "$": "MSIS0006: A Service Principal Name is not registered for the AD FS service account."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"7":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 278
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 3
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:41.822443"
+            },
+            "EventRecordID": {
+                "$": 7
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"8":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:42.486521"
+            },
+            "EventRecordID": {
+                "$": 8
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "FormsAuthentication"
+                        },
+                        {
+                            "$": "Passive protocol pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"9":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:42.487520"
+            },
+            "EventRecordID": {
+                "$": 9
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "WindowsAuthentication"
+                        },
+                        {
+                            "$": "Passive protocol pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"10":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:42.488522"
+            },
+            "EventRecordID": {
+                "$": 10
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "CertificateAuthentication"
+                        },
+                        {
+                            "$": "Passive protocol pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"11":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:42.582489"
+            },
+            "EventRecordID": {
+                "$": 11
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "FormsAuthentication"
+                        },
+                        {
+                            "$": "Passive protocol TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"12":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:42.583490"
+            },
+            "EventRecordID": {
+                "$": 12
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "WindowsAuthentication"
+                        },
+                        {
+                            "$": "Passive protocol TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"13":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:42.583490"
+            },
+            "EventRecordID": {
+                "$": 13
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "CertificateAuthentication"
+                        },
+                        {
+                            "$": "Passive protocol TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"14":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:42.704494"
+            },
+            "EventRecordID": {
+                "$": 14
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "FormsAuthentication"
+                        },
+                        {
+                            "$": "Proxy TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"15":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:42.704494"
+            },
+            "EventRecordID": {
+                "$": 15
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "CertificateAuthentication"
+                        },
+                        {
+                            "$": "Proxy TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"16":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:42.795502"
+            },
+            "EventRecordID": {
+                "$": 16
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "FormsAuthentication"
+                        },
+                        {
+                            "$": "Proxy device TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"17":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:42.796499"
+            },
+            "EventRecordID": {
+                "$": 17
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "CertificateAuthentication"
+                        },
+                        {
+                            "$": "Proxy device TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"18":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 100
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:42.827503"
+            },
+            "EventRecordID": {
+                "$": 18
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": {
+                        "$": "Federation Server Proxy ServiceHost\nhttps://Y-DC01.svfu.s-vfu.ru:443/adfs/services/proxytrustpolicystoretransfer\n\nMSIS0004\nhttps://y-dc01.svfu.s-vfu.ru/adfs/fs/federationserverservice.asmx\n\nIssuance ServiceHost\nhttp://localhost:80/adfs/services/trust/mexsoap\nhttps://y-dc01.svfu.s-vfu.ru:443/adfs/services/trust/proxymex/\n\nIssuance ServiceHost\nhttp://localhost/adfs/services/trust/proxymexsoap\nhttps://y-dc01.svfu.s-vfu.ru:443/adfs/services/trust/proxymex/\n\nIssuance ServiceHost\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/windowstransport\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/certificatemixed\nhttps://y-dc01.svfu.s-vfu.ru:49443/adfs/services/trust/2005/certificatetransport\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/usernamemixed\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/kerberosmixed\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/issuedtokenmixedasymmetricbasic256\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/issuedtokenmixedsymmetricbasic256\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/kerberosmixed\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/certificatemixed\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/usernamemixed\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/issuedtokenmixedasymmetricbasic256\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/issuedtokenmixedsymmetricbasic256\nnet.tcp://localhost/adfs/services/trusttcp/windows\n\nSAML Metadata\nhttps://y-dc01.svfu.s-vfu.ru/FederationMetadata/2007-06/\n\nOther endpoints\n\nhttps://+:443/adfs/oauth2/authorize/\nhttps://+:443/adfs/ls/\nhttps://+:443/adfs/oauth2/token/\nhttps://+:49443/adfs/oauth2/authorize/\nhttps://+:49443/adfs/ls/\nhttp://+:80/adfs/artifact/\nhttps://+:443/adfs/Proxy/EstablishTrust/\nhttps://+:443/adfs/backendproxytls/\nhttps://+:443/adfs/Proxy/\nhttp://+:80/adfs/Proxy/PrimaryWriter/\nhttps://+:49443/adfs/portal/\nhttps://+:443/adfs/portal/\nhttp://+:80/adfs/probe/\n"
+                    }
+                }
+            }
+        }
+    }
+},"19":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 400
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:46.065699"
+            },
+            "EventRecordID": {
+                "$": 19
+            },
+            "Correlation": {
+                "@ActivityID": "{367b04b1-4b1d-001e-492f-7b361d4bd801}",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 15644,
+                "@ThreadID": 18392
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-38257"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": {
+                        "$": "S-VFU\\khaltanovam"
+                    }
+                }
+            }
+        }
+    }
+},"20":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 401
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:24:46.127699"
+            },
+            "EventRecordID": {
+                "$": 20
+            },
+            "Correlation": {
+                "@ActivityID": "{367b04b1-4b1d-001e-492f-7b361d4bd801}",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 15644,
+                "@ThreadID": 18392
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-38257"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": {
+                        "$": "S-VFU\\khaltanovam"
+                    }
+                }
+            }
+        }
+    }
+},"21":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 388
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:25:42.938643"
+            },
+            "EventRecordID": {
+                "$": 21
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 16216
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"22":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 336
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:25:42.947639"
+            },
+            "EventRecordID": {
+                "$": 22
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 15704
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"23":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 399
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:25:42.953642"
+            },
+            "EventRecordID": {
+                "$": 23
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"24":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 156
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:25:42.960642"
+            },
+            "EventRecordID": {
+                "$": 24
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 4644
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"25":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 386
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:25:42.961645"
+            },
+            "EventRecordID": {
+                "$": 25
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"26":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 157
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:25:43.050644"
+            },
+            "EventRecordID": {
+                "$": 26
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 4644
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"27":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 390
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:25:43.071650"
+            },
+            "EventRecordID": {
+                "$": 27
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"28":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 337
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:25:43.387669"
+            },
+            "EventRecordID": {
+                "$": 28
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 15704
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"29":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 415
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 3
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:26:10.504229"
+            },
+            "EventRecordID": {
+                "$": 29
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 4136
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": {
+                        "$": "The SSL certificate does not contain all UPN suffix values that exist in the enterprise.  Users with UPN suffix values not represented in the certificate will not be able to Workplace-Join their devices.  For more information, see http://go.microsoft.com/fwlink/?LinkId=311954."
+                    }
+                }
+            }
+        }
+    }
+},"30":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 364
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:44:50.849598"
+            },
+            "EventRecordID": {
+                "$": 30
+            },
+            "Correlation": {
+                "@ActivityID": "{00000000-0000-0000-0200-0080020000fe}",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 14124
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {},
+                        {},
+                        {
+                            "$": "Microsoft.IdentityServer.RequestFailedException: MSIS7065: There are no registered protocol handlers on path /adfs/ls to process the incoming request.\n   at Microsoft.IdentityServer.Web.PassiveProtocolListener.OnGetContext(WrappedHttpListenerContext context)\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"31":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 364
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:50:31.097576"
+            },
+            "EventRecordID": {
+                "$": 31
+            },
+            "Correlation": {
+                "@ActivityID": "{00000000-0000-0000-0700-0080020000fe}",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 18068
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {},
+                        {},
+                        {
+                            "$": "Microsoft.IdentityServer.RequestFailedException: MSIS7065: There are no registered protocol handlers on path /adfs/ls to process the incoming request.\n   at Microsoft.IdentityServer.Web.PassiveProtocolListener.OnGetContext(WrappedHttpListenerContext context)\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"32":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 364
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:50:31.105576"
+            },
+            "EventRecordID": {
+                "$": 32
+            },
+            "Correlation": {
+                "@ActivityID": "{00000000-0000-0000-1100-0080000000ff}",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 16192
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {},
+                        {},
+                        {
+                            "$": "Microsoft.IdentityServer.RequestFailedException: MSIS7065: There are no registered protocol handlers on path /adfs/ls to process the incoming request.\n   at Microsoft.IdentityServer.Web.PassiveProtocolListener.OnGetContext(WrappedHttpListenerContext context)\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"33":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 364
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:52:16.395767"
+            },
+            "EventRecordID": {
+                "$": 33
+            },
+            "Correlation": {
+                "@ActivityID": "{00000000-0000-0000-1600-0080000000ff}",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 18068
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {},
+                        {},
+                        {
+                            "$": "Microsoft.IdentityServer.RequestFailedException: MSIS7065: There are no registered protocol handlers on path /adfs/ls to process the incoming request.\n   at Microsoft.IdentityServer.Web.PassiveProtocolListener.OnGetContext(WrappedHttpListenerContext context)\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"34":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 364
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:52:18.804436"
+            },
+            "EventRecordID": {
+                "$": 34
+            },
+            "Correlation": {
+                "@ActivityID": "{00000000-0000-0000-1900-0080000000ff}",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 18068
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {},
+                        {},
+                        {
+                            "$": "Microsoft.IdentityServer.RequestFailedException: MSIS7065: There are no registered protocol handlers on path /adfs/ls to process the incoming request.\n   at Microsoft.IdentityServer.Web.PassiveProtocolListener.OnGetContext(WrappedHttpListenerContext context)\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"35":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 364
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:52:19.698523"
+            },
+            "EventRecordID": {
+                "$": 35
+            },
+            "Correlation": {
+                "@ActivityID": "{00000000-0000-0000-1b00-0080000000ff}",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 18068
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {},
+                        {},
+                        {
+                            "$": "Microsoft.IdentityServer.RequestFailedException: MSIS7065: There are no registered protocol handlers on path /adfs/ls to process the incoming request.\n   at Microsoft.IdentityServer.Web.PassiveProtocolListener.OnGetContext(WrappedHttpListenerContext context)\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"36":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 364
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:52:20.716549"
+            },
+            "EventRecordID": {
+                "$": 36
+            },
+            "Correlation": {
+                "@ActivityID": "{00000000-0000-0000-1d00-0080000000ff}",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 18068
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {},
+                        {},
+                        {
+                            "$": "Microsoft.IdentityServer.RequestFailedException: MSIS7065: There are no registered protocol handlers on path /adfs/ls to process the incoming request.\n   at Microsoft.IdentityServer.Web.PassiveProtocolListener.OnGetContext(WrappedHttpListenerContext context)\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"37":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 364
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:53:57.833475"
+            },
+            "EventRecordID": {
+                "$": 37
+            },
+            "Correlation": {
+                "@ActivityID": "{00000000-0000-0000-0b00-0080020000fe}",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 13568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {},
+                        {},
+                        {
+                            "$": "Microsoft.IdentityServer.RequestFailedException: MSIS7065: There are no registered protocol handlers on path /adfs/ls to process the incoming request.\n   at Microsoft.IdentityServer.Web.PassiveProtocolListener.OnGetContext(WrappedHttpListenerContext context)\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"38":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 103
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:08.695261"
+            },
+            "EventRecordID": {
+                "$": 38
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 11676,
+                "@ThreadID": 10884
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"39":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 397
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:12.588451"
+            },
+            "EventRecordID": {
+                "$": 39
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 15316
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {},
+                        {},
+                        {},
+                        {}
+                    ]
+                }
+            }
+        }
+    }
+},"40":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 349
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:17.131721"
+            },
+            "EventRecordID": {
+                "$": 40
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": {
+                        "$": "Policy Administration ServiceHost\nnet.tcp://localhost:1500/policy\nnet.tcp://localhost:1500/policy\nnet.tcp://localhost:1500/policy\nhttp://Y-DC01.svfu.s-vfu.ru:80/adfs/services/policystoretransfer\nnet.tcp://localhost:1501/adfs/services/policystoretransfer\n\n"
+                    }
+                }
+            }
+        }
+    }
+},"41":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 251
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:17.309736"
+            },
+            "EventRecordID": {
+                "$": 41
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": {
+                        "$": "Active Directory"
+                    }
+                }
+            }
+        }
+    }
+},"42":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 217
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:17.662752"
+            },
+            "EventRecordID": {
+                "$": 42
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "https://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/windowstransport"
+                        },
+                        {
+                            "$": "WindowsTransport"
+                        },
+                        {
+                            "$": "MSIS0006: A Service Principal Name is not registered for the AD FS service account."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"43":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 217
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:17.675753"
+            },
+            "EventRecordID": {
+                "$": 43
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "https://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/windowstransport"
+                        },
+                        {
+                            "$": "WindowsTransport"
+                        },
+                        {
+                            "$": "MSIS0006: A Service Principal Name is not registered for the AD FS service account."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"44":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 217
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:18.794817"
+            },
+            "EventRecordID": {
+                "$": 44
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "https://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/windowstransport"
+                        },
+                        {
+                            "$": "WindowsTransport"
+                        },
+                        {
+                            "$": "MSIS0006: A Service Principal Name is not registered for the AD FS service account."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"45":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 217
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:19.237846"
+            },
+            "EventRecordID": {
+                "$": 45
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "https://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/windowstransport"
+                        },
+                        {
+                            "$": "WindowsTransport"
+                        },
+                        {
+                            "$": "MSIS0006: A Service Principal Name is not registered for the AD FS service account."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"46":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 217
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:19.241850"
+            },
+            "EventRecordID": {
+                "$": 46
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "https://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/windowstransport"
+                        },
+                        {
+                            "$": "WindowsTransport"
+                        },
+                        {
+                            "$": "MSIS0006: A Service Principal Name is not registered for the AD FS service account."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"47":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 278
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 3
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:19.280851"
+            },
+            "EventRecordID": {
+                "$": 47
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"48":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:19.920889"
+            },
+            "EventRecordID": {
+                "$": 48
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "FormsAuthentication"
+                        },
+                        {
+                            "$": "Passive protocol pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"49":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:19.921894"
+            },
+            "EventRecordID": {
+                "$": 49
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "WindowsAuthentication"
+                        },
+                        {
+                            "$": "Passive protocol pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"50":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:19.922905"
+            },
+            "EventRecordID": {
+                "$": 50
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "CertificateAuthentication"
+                        },
+                        {
+                            "$": "Passive protocol pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"51":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:20.033892"
+            },
+            "EventRecordID": {
+                "$": 51
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "FormsAuthentication"
+                        },
+                        {
+                            "$": "Passive protocol TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"52":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:20.033892"
+            },
+            "EventRecordID": {
+                "$": 52
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "WindowsAuthentication"
+                        },
+                        {
+                            "$": "Passive protocol TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"53":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:20.033892"
+            },
+            "EventRecordID": {
+                "$": 53
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "CertificateAuthentication"
+                        },
+                        {
+                            "$": "Passive protocol TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"54":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:20.346910"
+            },
+            "EventRecordID": {
+                "$": 54
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "FormsAuthentication"
+                        },
+                        {
+                            "$": "Proxy TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"55":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:20.347914"
+            },
+            "EventRecordID": {
+                "$": 55
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "CertificateAuthentication"
+                        },
+                        {
+                            "$": "Proxy TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"56":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:20.439917"
+            },
+            "EventRecordID": {
+                "$": 56
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "FormsAuthentication"
+                        },
+                        {
+                            "$": "Proxy device TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"57":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 106
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:20.439917"
+            },
+            "EventRecordID": {
+                "$": 57
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {
+                            "$": "CertificateAuthentication"
+                        },
+                        {
+                            "$": "Proxy device TLS pipeline"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"58":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 100
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:20.472921"
+            },
+            "EventRecordID": {
+                "$": 58
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": {
+                        "$": "Federation Server Proxy ServiceHost\nhttps://Y-DC01.svfu.s-vfu.ru:443/adfs/services/proxytrustpolicystoretransfer\n\nMSIS0004\nhttps://y-dc01.svfu.s-vfu.ru/adfs/fs/federationserverservice.asmx\n\nIssuance ServiceHost\nhttp://localhost:80/adfs/services/trust/mexsoap\nhttps://y-dc01.svfu.s-vfu.ru:443/adfs/services/trust/proxymex/\n\nIssuance ServiceHost\nhttp://localhost/adfs/services/trust/proxymexsoap\nhttps://y-dc01.svfu.s-vfu.ru:443/adfs/services/trust/proxymex/\n\nIssuance ServiceHost\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/windowstransport\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/certificatemixed\nhttps://y-dc01.svfu.s-vfu.ru:49443/adfs/services/trust/2005/certificatetransport\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/usernamemixed\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/kerberosmixed\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/issuedtokenmixedasymmetricbasic256\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/2005/issuedtokenmixedsymmetricbasic256\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/kerberosmixed\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/certificatemixed\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/usernamemixed\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/issuedtokenmixedasymmetricbasic256\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/issuedtokenmixedsymmetricbasic256\nhttps://y-dc01.svfu.s-vfu.ru/adfs/services/trust/13/windowstransport\nnet.tcp://localhost/adfs/services/trusttcp/windows\n\nSAML Metadata\nhttps://y-dc01.svfu.s-vfu.ru/FederationMetadata/2007-06/\n\nOther endpoints\n\nhttps://+:443/adfs/oauth2/authorize/\nhttps://+:443/adfs/ls/\nhttps://+:443/adfs/oauth2/token/\nhttps://+:49443/adfs/oauth2/authorize/\nhttps://+:49443/adfs/ls/\nhttp://+:80/adfs/artifact/\nhttps://+:443/adfs/Proxy/EstablishTrust/\nhttps://+:443/adfs/backendproxytls/\nhttps://+:443/adfs/Proxy/\nhttp://+:80/adfs/Proxy/PrimaryWriter/\nhttps://+:49443/adfs/portal/\nhttps://+:443/adfs/portal/\nhttp://+:80/adfs/probe/\n"
+                    }
+                }
+            }
+        }
+    }
+},"59":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 364
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:55:31.512173"
+            },
+            "EventRecordID": {
+                "$": 59
+            },
+            "Correlation": {
+                "@ActivityID": "{00000000-0000-0000-0d00-0080020000fe}",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 7688
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {},
+                        {},
+                        {
+                            "$": "Microsoft.IdentityServer.RequestFailedException: MSIS7065: There are no registered protocol handlers on path /adfs/ls to process the incoming request.\n   at Microsoft.IdentityServer.Web.PassiveProtocolListener.OnGetContext(WrappedHttpListenerContext context)\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"60":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 388
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:56:20.543255"
+            },
+            "EventRecordID": {
+                "$": 60
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 17568
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"61":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 415
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 3
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:56:47.831179"
+            },
+            "EventRecordID": {
+                "$": 61
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 15124
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": {
+                        "$": "The SSL certificate does not contain all UPN suffix values that exist in the enterprise.  Users with UPN suffix values not represented in the certificate will not be able to Workplace-Join their devices.  For more information, see http://go.microsoft.com/fwlink/?LinkId=311954."
+                    }
+                }
+            }
+        }
+    }
+},"62":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 364
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 2
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 01:59:13.245390"
+            },
+            "EventRecordID": {
+                "$": 62
+            },
+            "Correlation": {
+                "@ActivityID": "{00000000-0000-0000-1300-0080020000fe}",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 17132
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": [
+                        {},
+                        {},
+                        {
+                            "$": "Microsoft.IdentityServer.RequestFailedException: MSIS7065: There are no registered protocol handlers on path /adfs/ls to process the incoming request.\n   at Microsoft.IdentityServer.Web.PassiveProtocolListener.OnGetContext(WrappedHttpListenerContext context)\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+},"63":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 336
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 13:26:23.455719"
+            },
+            "EventRecordID": {
+                "$": 63
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 12388
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"64":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 337
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-27 13:26:23.643728"
+            },
+            "EventRecordID": {
+                "$": 64
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 12388
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"65":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 336
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-28 01:26:26.211369"
+            },
+            "EventRecordID": {
+                "$": 65
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 13668
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"66":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 399
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-28 01:26:26.229368"
+            },
+            "EventRecordID": {
+                "$": 66
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 12756
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"67":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 156
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-28 01:26:26.230370"
+            },
+            "EventRecordID": {
+                "$": 67
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"68":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 386
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-28 01:26:26.237370"
+            },
+            "EventRecordID": {
+                "$": 68
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 12756
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"69":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 157
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-28 01:26:26.268370"
+            },
+            "EventRecordID": {
+                "$": 69
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"70":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 390
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-28 01:26:26.344376"
+            },
+            "EventRecordID": {
+                "$": 70
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 12756
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"71":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 337
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-28 01:26:26.377377"
+            },
+            "EventRecordID": {
+                "$": 71
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 13668
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"72":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 415
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 3
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-28 01:56:48.067511"
+            },
+            "EventRecordID": {
+                "$": 72
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": {
+                        "$": "The SSL certificate does not contain all UPN suffix values that exist in the enterprise.  Users with UPN suffix values not represented in the certificate will not be able to Workplace-Join their devices.  For more information, see http://go.microsoft.com/fwlink/?LinkId=311954."
+                    }
+                }
+            }
+        }
+    }
+},"73":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 336
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-28 13:26:29.636404"
+            },
+            "EventRecordID": {
+                "$": 73
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 14320
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"74":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 337
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-28 13:26:29.798414"
+            },
+            "EventRecordID": {
+                "$": 74
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 14320
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"75":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 336
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-29 01:26:32.372757"
+            },
+            "EventRecordID": {
+                "$": 75
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"76":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 156
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-29 01:26:32.379763"
+            },
+            "EventRecordID": {
+                "$": 76
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 14168
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"77":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 157
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-29 01:26:32.398760"
+            },
+            "EventRecordID": {
+                "$": 77
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 14168
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"78":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 337
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 4
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-29 01:26:32.533766"
+            },
+            "EventRecordID": {
+                "$": 78
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {}
+            }
+        }
+    }
+},"79":{
+    "Event": {
+        "System": {
+            "Provider": {
+                "@Name": "AD FS",
+                "@Guid": "{2ffb687a-1571-4ace-8550-47ab5ccae2bc}"
+            },
+            "EventID": {
+                "@Qualifiers": "",
+                "$": 415
+            },
+            "Version": {
+                "$": 0
+            },
+            "Level": {
+                "$": 3
+            },
+            "Task": {
+                "$": 0
+            },
+            "Opcode": {
+                "$": 0
+            },
+            "Keywords": {
+                "$": "0x8000000000000001"
+            },
+            "TimeCreated": {
+                "@SystemTime": "2022-04-29 01:56:49.110008"
+            },
+            "EventRecordID": {
+                "$": 79
+            },
+            "Correlation": {
+                "@ActivityID": "",
+                "@RelatedActivityID": ""
+            },
+            "Execution": {
+                "@ProcessID": 1540,
+                "@ThreadID": 6576
+            },
+            "Channel": {
+                "$": "AD FS/Admin"
+            },
+            "Computer": {
+                "$": "Y-DC01.svfu.s-vfu.ru"
+            },
+            "Security": {
+                "@UserID": "S-1-5-21-2409381798-419623687-4111896599-61169"
+            }
+        },
+        "UserData": {
+            "Event": {
+                "EventData": {
+                    "Data": {
+                        "$": "The SSL certificate does not contain all UPN suffix values that exist in the enterprise.  Users with UPN suffix values not represented in the certificate will not be able to Workplace-Join their devices.  For more information, see http://go.microsoft.com/fwlink/?LinkId=311954."
+                    }
+                }
+            }
+        }
+    }
+}
+}
