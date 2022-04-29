@@ -1,1 +1,2 @@
 python-evtx==0.6.1
+xmljson
